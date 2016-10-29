@@ -4,9 +4,7 @@ Paper wallet para mercadopago. Imprimí tu saldo de MercadoPago para usarlo como
 Inspirado en las paperwallet de Bitcoin
 https://bitcoinpaperwallet.com/
 
-La Demo esta Hecha en Wordpress con Woocommerce, Woocommerce Mercadopago. Storefront y Woocomerce gift cards.
-
-La demofuncional esta en  esta URL
+La Demo esta Hecha en Wordpress con Woocommerce, Woocommerce Mercadopago. Storefront, Hay tecnologias disponibles para convertirlo a IOS y ANDROIND
 
 http://24hs.club/
 
